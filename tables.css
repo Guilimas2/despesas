@@ -1,0 +1,42 @@
+table, tr, td, th{
+    border: solid 1px black;1
+}
+tr, td{
+    width: 100px;
+}
+th{
+    background-color: red;
+}
+tr:nth-child(even) {background-color: #f2f2f2}
+th, tr {
+    padding: 15px;
+    text-align: left;
+    background-color: rgb(94, 97, 97);
+}
+th {
+    background-color: #323332;
+    color: white;
+}
+tr:hover {background-color: #393a39}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+td {
+    height: 20px;
+    vertical-align: bottom;
+}
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
