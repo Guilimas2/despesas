@@ -1,4 +1,5 @@
 # despesas
+<<<<<<< HEAD
  ![tela inicial](img/print.png)
 
  # Descriçao do meu site 
@@ -9,3 +10,7 @@
 
  # funcionalidade 
 Organziar as despesas de casas, entres elas são "Agua, luz, internet, etc..."  
+=======
+
+
+>>>>>>> 189e06f031e453ee8a1548bc946144aff2382e0f
